@@ -1,0 +1,10 @@
+dry_bean = 3.486603 mins
+gamma = 
+glass identification = 2.62 seg
+iris = 2.32 seg
+letter recognition = 2.96 seg
+RiceCameo = 7.93 sseg
+Seeds = 2.40 seg
+Winequality-red = 2.68 seg
+Winequality-white = 3.38 seg
+Yeast = 2.51 seg

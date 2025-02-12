@@ -1,0 +1,10 @@
+dry bean = 3.31 seg
+gamma = 3.21 seg
+glass identification = 1.06 seg
+iris = 0.38 seg
+letter recognition = 0.59 seg
+RiceCameo = 0.25 seg
+Seeds = 0.03 seg
+Winequality-red = 0.06 seg
+Winequality-white = 0.09 seg
+Yeast = 0.04 seg
