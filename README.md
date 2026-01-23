@@ -1,5 +1,5 @@
 # MDLP-upgraded
-In this project I propose a new form to construct the algorithm Minimum Description Length Principle (MDLP). It will be more faster than any supervised discretization :)
+In this project I propose a new form to construct the algorithm Minimum Description Length Principle (MDLP). It will be more faster than any supervised discretization. You can check the full explanation on https://link.springer.com/chapter/10.1007/978-3-031-97910-1_20
 
 # MDLP con Mejoras de Eficiencia
 
